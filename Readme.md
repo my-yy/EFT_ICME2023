@@ -25,8 +25,7 @@ dataset/
 │   ├── test_verification_g.pkl
 │   ├── test_verification_n.pkl
 │   ├── test_verification.pkl
-│   ├── valid_verification.pkl
-│   └── vox1_meta.csv
+│   └── valid_verification.pkl
 ├── features
 └── info
     ├── name2movies.pkl
